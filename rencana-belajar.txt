@@ -12,3 +12,5 @@ Rencana belajar programming
 - ASP.Net
 - JavaScript
 - Angular
+
+Semoga terlaksana
