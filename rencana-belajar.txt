@@ -1,0 +1,12 @@
+Rencana belajar programming
+
+- HTML 5
+- CSS 3
+- Bootstarp 4
+- PHP 7
+- Yii2 
+- C#
+- Blazor
+- ASP.Net
+- JavaScript
+- Angular
